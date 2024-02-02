@@ -41,6 +41,7 @@ int main() {
 
     cout << "Carpeta de trabajo actual: " << fs::current_path() << endl;
 
+    //Esta es la salida (nombre) que tendra el archivo que generaremos.
     string outputFileName;
     cout << "Ingrese el nombre del archivo de salida: ";
     cin >> outputFileName;
@@ -49,6 +50,7 @@ int main() {
 
     ofstream outputFile(outputFileName);
 
+    //Ruta en donde se encuentran loas archivos que utilizaremos.
     const string folderPath = "C:\\Users\\Alberto Iwakura\\Documents\\CS13309_Archivos_HTML";
 
     double totalOpenTime = 0.0;
