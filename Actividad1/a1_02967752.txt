@@ -1,1012 +1,1012 @@
 C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\002.html
-8.5e-05
+0.000137
 C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\003.html
-0.000104
+0.000115
 C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\004.html
-8.5e-05
+0.000102
 C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\005.html
-8.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\006.html
-7.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\007.html
-5.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\008.html
-5.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\009.html
-7.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\010.html
-8.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\011.html
 6.3e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\006.html
+0.000114
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\007.html
+0.000103
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\008.html
+0.000103
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\009.html
+0.0001
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\010.html
+9.4e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\011.html
+8.3e-05
 C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\012.html
-6.1e-05
+7.4e-05
 C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\013.html
 7.1e-05
 C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\014.html
-6.2e-05
+7.2e-05
 C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\015.html
-6.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\016.html
-5.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\017.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\018.html
-7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\019.html
-7.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\020.html
-6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\021.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\022.html
-5.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\023.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\024.html
-4.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\025.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\026.html
-4.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\027.html
-4.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\028.html
-4.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\029.html
-3.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\030.html
-3.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\031.html
-3.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\032.html
-6.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\033.html
-6.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\034.html
-5.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\035.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\036.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\037.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\038.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\039.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\040.html
-0.000102
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\041.html
-0.000133
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\042.html
-8.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\043.html
-8.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\044.html
-7.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\045.html
-8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\046.html
-6.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\047.html
-7.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\048.html
-7.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\049.html
-9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\050.html
-7.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\051.html
-5.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\052.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\053.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\054.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\055.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\056.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\057.html
-0.000121
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\058.html
-0.000108
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\059.html
-8.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\060.html
-8.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\061.html
-0.000104
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\062.html
-8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\063.html
-7.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\064.html
-7.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\065.html
-6.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\066.html
-7.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\067.html
-9.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\068.html
-8.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\069.html
-8.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\070.html
-6.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\071.html
-5.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\072.html
-5.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\073.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\074.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\075.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\076.html
-0.000171
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\077.html
-0.00015
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\078.html
-0.000152
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\079.html
-0.000133
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\080.html
-0.000185
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\081.html
-0.000259
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\082.html
-0.000121
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\083.html
-0.000275
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\084.html
-0.000298
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\085.html
-0.00028
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\086.html
-0.000289
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\087.html
-7.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\088.html
-0.000131
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\089.html
-0.00014
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\090.html
-7.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\091.html
-0.000115
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\092.html
-7.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\093.html
-6.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\094.html
-6.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\095.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\096.html
-0.000137
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\097.html
-8.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\098.html
-0.000103
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\099.html
-9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\100.html
-8.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\101.html
-8.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\102.html
-8.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\103.html
-0.000126
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\104.html
-0.000137
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\105.html
-0.000284
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\106.html
-0.00013
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\107.html
-9.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\108.html
-8.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\109.html
-6.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\110.html
-6.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\111.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\112.html
-6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\113.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\114.html
-6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\115.html
-0.000118
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\116.html
-0.000114
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\117.html
-8.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\118.html
-8.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\119.html
-7.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\120.html
-8.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\121.html
-0.000107
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\122.html
-0.000124
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\123.html
-0.000143
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\124.html
-0.0001
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\125.html
-8.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\126.html
-7.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\127.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\128.html
-6.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\129.html
-6.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\130.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\131.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\132.html
-7.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\133.html
-6.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\134.html
-8.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\135.html
-8.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\136.html
-9.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\137.html
-8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\138.html
-0.000281
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\139.html
-8.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\140.html
-8.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\141.html
-0.000115
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\142.html
 0.000132
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\143.html
-7.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\144.html
-6.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\145.html
-6.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\146.html
-5.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\147.html
-5.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\148.html
-5.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\149.html
-5.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\150.html
-5.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\151.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\152.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\153.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\154.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\155.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\156.html
-6.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\157.html
-6.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\158.html
-7.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\159.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\160.html
-8.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\161.html
-8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\162.html
-6.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\163.html
-7.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\164.html
-7.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\165.html
-0.000115
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\166.html
-8.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\167.html
-6.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\168.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\169.html
-5.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\170.html
-6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\171.html
-5.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\172.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\173.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\174.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\175.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\176.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\177.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\178.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\179.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\180.html
-7.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\181.html
-7.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\182.html
-7.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\183.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\184.html
-8.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\185.html
-7.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\186.html
-0.000108
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\187.html
-6.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\188.html
-0.000118
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\189.html
-7.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\190.html
-6.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\191.html
-6.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\192.html
-6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\193.html
-5.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\194.html
-5.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\195.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\196.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\197.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\198.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\199.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\200.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\201.html
-7.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\202.html
-5.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\203.html
-5.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\204.html
-7.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\205.html
-7.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\206.html
-7.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\207.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\208.html
-0.000271
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\209.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\210.html
-8.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\211.html
-7.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\212.html
-0.000266
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\213.html
-0.000121
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\214.html
-8.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\215.html
-7.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\216.html
-0.000168
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\217.html
-0.000185
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\218.html
-0.000914
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\219.html
-0.000238
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\220.html
-0.00025
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\221.html
-0.000265
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\222.html
-0.000293
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\223.html
-0.000136
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\224.html
-8.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\225.html
-0.000214
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\226.html
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\016.html
 7.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\227.html
-0.000325
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\228.html
-0.000133
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\229.html
-0.000159
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\230.html
-8.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\231.html
-0.000608
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\232.html
-0.000241
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\233.html
-9.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\234.html
-0.000111
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\235.html
-6.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\236.html
-0.000108
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\237.html
-0.000218
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\238.html
-0.000222
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\239.html
-0.000198
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\240.html
-9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\241.html
-0.000422
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\242.html
-0.000154
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\243.html
-0.000107
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\244.html
-0.000118
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\245.html
-7.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\246.html
-6.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\247.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\248.html
-6.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\249.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\250.html
-6.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\251.html
-6.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\252.html
-6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\253.html
-5.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\254.html
-5.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\255.html
-5.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\256.html
-6.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\257.html
-0.000121
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\258.html
-7.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\259.html
-0.000303
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\260.html
-0.000133
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\261.html
-0.000122
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\262.html
-0.000104
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\263.html
-0.000135
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\264.html
-9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\265.html
-7.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\266.html
-6.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\267.html
-6.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\268.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\269.html
-6.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\270.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\271.html
-6.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\272.html
-6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\273.html
-6.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\274.html
-6.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\275.html
-7.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\276.html
-6.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\277.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\278.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\279.html
-6.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\280.html
-8.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\281.html
-0.000205
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\282.html
-0.000145
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\283.html
-0.002702
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\284.html
-0.000149
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\285.html
-0.000296
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\286.html
-0.00028
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\287.html
-8.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\288.html
-0.000162
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\289.html
-0.00016
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\290.html
-9.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\291.html
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\017.html
+7.4e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\018.html
+0.000196
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\019.html
+0.000243
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\020.html
+0.000143
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\021.html
+0.000109
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\022.html
+9.6e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\023.html
+0.000109
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\024.html
 7.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\292.html
-7.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\293.html
-6.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\294.html
-6.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\295.html
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\025.html
+7e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\026.html
 6.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\296.html
-6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\297.html
-6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\298.html
-6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\299.html
-6.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\300.html
-0.00016
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\301.html
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\027.html
+0.000109
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\028.html
+7.9e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\029.html
+7.2e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\030.html
+7.2e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\031.html
+6.9e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\032.html
+0.000142
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\033.html
+0.000256
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\034.html
+0.000109
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\035.html
+9.5e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\036.html
+9.2e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\037.html
+0.001784
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\038.html
+0.000397
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\039.html
 0.000237
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\302.html
-0.000138
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\303.html
-0.000191
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\304.html
-0.000121
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\305.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\306.html
-6.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\307.html
-7.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\308.html
-6.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\309.html
-5.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\310.html
-5.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\311.html
-6.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\312.html
-5.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\313.html
-6.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\314.html
-5.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\315.html
-0.000117
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\316.html
-0.000147
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\317.html
-7.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\318.html
-9.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\319.html
-7.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\320.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\321.html
-5.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\322.html
-5.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\323.html
-5.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\324.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\325.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\326.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\327.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\328.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\329.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\330.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\331.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\332.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\333.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\334.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\335.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\336.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\337.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\338.html
-0.000208
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\339.html
-0.000479
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\340.html
-0.000176
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\341.html
-0.000171
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\342.html
-7.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\343.html
-6.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\344.html
-5.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\345.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\346.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\347.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\348.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\349.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\350.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\351.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\352.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\353.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\354.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\355.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\356.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\357.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\358.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\359.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\360.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\361.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\362.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\363.html
-0.000149
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\364.html
-0.000114
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\365.html
-9.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\366.html
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\040.html
+0.000188
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\041.html
+0.000109
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\042.html
 9.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\367.html
-8.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\368.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\369.html
-5.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\370.html
-5.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\371.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\372.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\373.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\374.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\375.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\376.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\377.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\378.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\379.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\380.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\381.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\382.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\383.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\384.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\385.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\386.html
-5.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\387.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\388.html
-0.000205
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\389.html
-0.000115
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\390.html
-8.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\391.html
-7.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\392.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\393.html
-9.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\394.html
-0.00011
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\395.html
-5.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\396.html
-6.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\397.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\398.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\399.html
-5.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\400.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\401.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\402.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\403.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\404.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\405.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\406.html
-4.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\407.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\408.html
-4.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\409.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\410.html
-4.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\411.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\412.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\413.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\414.html
-9.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\415.html
-0.000179
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\416.html
-0.000126
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\417.html
-8.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\418.html
-6.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\419.html
-7.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\420.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\421.html
-8.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\422.html
-7.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\423.html
-5.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\424.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\425.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\426.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\427.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\428.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\429.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\430.html
-4.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\431.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\432.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\433.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\434.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\435.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\436.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\437.html
-7.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\438.html
-7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\439.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\440.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\441.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\442.html
-0.000178
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\443.html
-0.000116
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\444.html
-8.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\445.html
-0.000118
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\446.html
-9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\447.html
-6.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\448.html
-0.000137
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\449.html
-6.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\450.html
-5.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\451.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\452.html
-5.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\453.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\454.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\455.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\456.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\457.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\458.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\459.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\460.html
-8.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\461.html
-6.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\462.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\463.html
-6.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\464.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\465.html
-6.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\466.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\467.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\468.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\469.html
-8.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\470.html
-6.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\471.html
-7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\472.html
-8.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\473.html
-6.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\474.html
-6.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\475.html
-0.000111
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\476.html
-0.00015
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\477.html
-6.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\478.html
-6.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\479.html
-5.3e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\480.html
-5.6e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\481.html
-5.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\482.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\483.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\484.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\485.html
-4.8e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\486.html
-6.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\487.html
-7.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\488.html
-5.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\489.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\490.html
-5.4e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\491.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\492.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\493.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\494.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\495.html
-5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\496.html
-4.9e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\497.html
-0.000125
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\498.html
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\043.html
 9.7e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\499.html
-7.5e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\500.html
-7.1e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\501.html
-7.2e-05
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\502.html
-0.000237
-C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\503.html
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\044.html
+9e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\045.html
+0.00024
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\046.html
+0.000133
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\047.html
+0.000116
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\048.html
+0.000198
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\049.html
+0.000357
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\050.html
+0.000318
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\051.html
+0.000153
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\052.html
+0.000146
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\053.html
+0.000231
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\054.html
+0.000234
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\055.html
+0.003648
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\056.html
+0.000189
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\057.html
+0.000114
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\058.html
+0.000343
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\059.html
+0.000208
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\060.html
+0.000173
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\061.html
+0.000283
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\062.html
+0.000147
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\063.html
+0.000151
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\064.html
+0.000167
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\065.html
+0.000311
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\066.html
+0.000378
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\067.html
+0.000189
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\068.html
+0.000264
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\069.html
+0.000142
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\070.html
+0.00018
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\071.html
+0.00036
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\072.html
+0.000175
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\073.html
+0.000288
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\074.html
+0.000266
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\075.html
+0.00028
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\076.html
+0.000121
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\077.html
+0.000129
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\078.html
+0.000323
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\079.html
+0.000159
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\080.html
+0.000263
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\081.html
+0.000214
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\082.html
+9.7e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\083.html
+0.000189
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\084.html
+0.000201
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\085.html
+0.000198
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\086.html
+0.000189
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\087.html
+9.4e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\088.html
+0.000191
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\089.html
+9e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\090.html
+0.000189
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\091.html
+0.000206
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\092.html
+0.00016
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\093.html
+0.000258
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\094.html
+0.000115
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\095.html
+0.000118
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\096.html
+0.000111
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\097.html
+0.000126
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\098.html
+0.000185
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\099.html
+0.000224
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\100.html
+9.1e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\101.html
+0.000102
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\102.html
+0.000242
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\103.html
+0.000381
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\104.html
+0.001025
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\105.html
+0.000191
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\106.html
+0.000148
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\107.html
+0.000116
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\108.html
+0.000106
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\109.html
+0.000111
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\110.html
+0.000181
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\111.html
+0.001864
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\112.html
+0.000152
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\113.html
+0.000135
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\114.html
+0.000129
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\115.html
+0.000158
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\116.html
+0.000156
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\117.html
+0.00014
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\118.html
+0.000158
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\119.html
+0.000114
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\120.html
+0.000127
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\121.html
+0.000163
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\122.html
+0.000244
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\123.html
+0.000133
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\124.html
+0.000121
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\125.html
+0.000563
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\126.html
+0.000285
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\127.html
+0.000212
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\128.html
+0.000178
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\129.html
+0.000238
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\130.html
+0.000519
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\131.html
+0.000526
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\132.html
+0.000575
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\133.html
+0.000322
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\134.html
+0.000168
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\135.html
+0.000205
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\136.html
+0.0002
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\137.html
+0.000189
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\138.html
+0.000117
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\139.html
+0.000332
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\140.html
+0.000155
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\141.html
+0.000393
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\142.html
+0.000193
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\143.html
+0.000323
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\144.html
+0.000193
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\145.html
+0.000324
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\146.html
+0.000275
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\147.html
+0.00019
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\148.html
+0.000196
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\149.html
+0.000298
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\150.html
+0.000162
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\151.html
+0.000541
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\152.html
+0.000238
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\153.html
+0.000182
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\154.html
+0.000161
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\155.html
+0.000346
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\156.html
+0.000279
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\157.html
+0.00034
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\158.html
+0.000436
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\159.html
+0.000281
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\160.html
+0.000253
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\161.html
+0.000171
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\162.html
+0.000184
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\163.html
+0.000165
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\164.html
+0.000211
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\165.html
+0.000318
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\166.html
+0.000414
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\167.html
+0.000432
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\168.html
+0.000261
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\169.html
+0.000308
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\170.html
+0.000343
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\171.html
+0.000334
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\172.html
+0.000146
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\173.html
+0.000468
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\174.html
+0.000252
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\175.html
+0.000444
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\176.html
+0.000278
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\177.html
+0.000192
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\178.html
+0.000223
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\179.html
+0.000431
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\180.html
+0.000491
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\181.html
+0.000192
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\182.html
+0.000261
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\183.html
+0.003278
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\184.html
+0.000196
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\185.html
+0.000184
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\186.html
+0.000284
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\187.html
+0.000119
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\188.html
 0.000107
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\189.html
+0.000209
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\190.html
+0.000442
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\191.html
+0.000358
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\192.html
+0.000115
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\193.html
+0.000156
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\194.html
+0.000307
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\195.html
+0.000148
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\196.html
+0.00018
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\197.html
+0.00015
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\198.html
+0.000104
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\199.html
+9.8e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\200.html
+9.4e-05
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\201.html
+0.00012
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\202.html
+0.000147
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\203.html
+0.000116
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\204.html
+0.000262
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\205.html
+0.000391
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\206.html
+0.000131
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\207.html
+0.000185
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\208.html
+0.000189
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\209.html
+0.000106
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\210.html
+0.000106
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\211.html
+0.000337
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\212.html
+0.000152
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\213.html
+0.000246
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\214.html
+0.000117
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\215.html
+0.000108
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\216.html
+0.000122
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\217.html
+0.000214
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\218.html
+0.000302
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\219.html
+0.000151
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\220.html
+0.000124
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\221.html
+0.000152
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\222.html
+0.000137
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\223.html
+0.000105
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\224.html
+0.000107
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\225.html
+0.000114
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\226.html
+0.000111
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\227.html
+0.000329
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\228.html
+0.000139
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\229.html
+0.000118
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\230.html
+0.000106
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\231.html
+0.000141
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\232.html
+0.000105
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\233.html
+0.000209
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\234.html
+0.000225
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\235.html
+0.000158
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\236.html
+0.000143
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\237.html
+0.00015
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\238.html
+0.000181
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\239.html
+0.000174
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\240.html
+0.000135
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\241.html
+0.000241
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\242.html
+0.000115
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\243.html
+0.000112
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\244.html
+0.002712
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\245.html
+0.000166
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\246.html
+0.000184
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\247.html
+0.000302
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\248.html
+0.000184
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\249.html
+0.00022
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\250.html
+0.000179
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\251.html
+0.000146
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\252.html
+0.000184
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\253.html
+0.000171
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\254.html
+0.000173
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\255.html
+0.000164
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\256.html
+0.000114
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\257.html
+0.000108
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\258.html
+0.000112
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\259.html
+0.000101
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\260.html
+0.000144
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\261.html
+0.000148
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\262.html
+0.000134
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\263.html
+0.00013
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\264.html
+0.000119
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\265.html
+0.000112
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\266.html
+0.000124
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\267.html
+0.000122
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\268.html
+0.003533
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\269.html
+0.000162
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\270.html
+0.000182
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\271.html
+0.000187
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\272.html
+0.000125
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\273.html
+0.000436
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\274.html
+0.001607
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\275.html
+0.000165
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\276.html
+0.000202
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\277.html
+0.000178
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\278.html
+0.000293
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\279.html
+0.00026
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\280.html
+0.000296
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\281.html
+0.000293
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\282.html
+0.000175
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\283.html
+0.000462
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\284.html
+0.000314
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\285.html
+0.000347
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\286.html
+0.000194
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\287.html
+0.000325
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\288.html
+0.00032
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\289.html
+0.00036
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\290.html
+0.000246
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\291.html
+0.000247
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\292.html
+0.000156
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\293.html
+0.000151
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\294.html
+0.000138
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\295.html
+0.000142
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\296.html
+0.000132
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\297.html
+0.000603
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\298.html
+0.000712
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\299.html
+0.000361
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\300.html
+0.000205
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\301.html
+0.000389
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\302.html
+0.000208
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\303.html
+0.000222
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\304.html
+0.000321
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\305.html
+0.000341
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\306.html
+0.000331
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\307.html
+0.000451
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\308.html
+0.000261
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\309.html
+0.000219
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\310.html
+0.000301
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\311.html
+0.000298
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\312.html
+0.001489
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\313.html
+0.0003
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\314.html
+0.000213
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\315.html
+0.000367
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\316.html
+0.000359
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\317.html
+0.000195
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\318.html
+0.000183
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\319.html
+0.001937
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\320.html
+0.000188
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\321.html
+0.00015
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\322.html
+0.0002
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\323.html
+0.00018
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\324.html
+0.000125
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\325.html
+0.000136
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\326.html
+0.000194
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\327.html
+0.000281
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\328.html
+0.000256
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\329.html
+0.000416
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\330.html
+0.000257
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\331.html
+0.000144
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\332.html
+0.000532
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\333.html
+0.000127
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\334.html
+0.001797
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\335.html
+0.000776
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\336.html
+0.000347
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\337.html
+0.000177
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\338.html
+0.000335
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\339.html
+0.000222
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\340.html
+0.000401
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\341.html
+0.000131
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\342.html
+0.000344
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\343.html
+0.000267
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\344.html
+0.000133
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\345.html
+0.000149
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\346.html
+0.000153
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\347.html
+0.000159
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\348.html
+0.000162
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\349.html
+0.000153
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\350.html
+0.000247
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\351.html
+0.000295
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\352.html
+0.000232
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\353.html
+0.000233
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\354.html
+0.000248
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\355.html
+0.00021
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\356.html
+0.00021
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\357.html
+0.000453
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\358.html
+0.000324
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\359.html
+0.000156
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\360.html
+0.000141
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\361.html
+0.000144
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\362.html
+0.000194
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\363.html
+0.000169
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\364.html
+0.000132
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\365.html
+0.000128
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\366.html
+0.00025
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\367.html
+0.000171
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\368.html
+0.000371
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\369.html
+0.000228
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\370.html
+0.000207
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\371.html
+0.00047
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\372.html
+0.000289
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\373.html
+0.000179
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\374.html
+0.000154
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\375.html
+0.000159
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\376.html
+0.000248
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\377.html
+0.000441
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\378.html
+0.00041
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\379.html
+0.000237
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\380.html
+0.000287
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\381.html
+0.000294
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\382.html
+0.000318
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\383.html
+0.000286
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\384.html
+0.000154
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\385.html
+0.000139
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\386.html
+0.000261
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\387.html
+0.000155
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\388.html
+0.000303
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\389.html
+0.000295
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\390.html
+0.000231
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\391.html
+0.000178
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\392.html
+0.000918
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\393.html
+0.000325
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\394.html
+0.000192
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\395.html
+0.000282
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\396.html
+0.000302
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\397.html
+0.000343
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\398.html
+0.003951
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\399.html
+0.000204
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\400.html
+0.000319
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\401.html
+0.000169
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\402.html
+0.000223
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\403.html
+0.000257
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\404.html
+0.000218
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\405.html
+0.000147
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\406.html
+0.000873
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\407.html
+0.000222
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\408.html
+0.000163
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\409.html
+0.000183
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\410.html
+0.000126
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\411.html
+0.000115
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\412.html
+0.00042
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\413.html
+0.000156
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\414.html
+0.00019
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\415.html
+0.000167
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\416.html
+0.000323
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\417.html
+0.000533
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\418.html
+0.00013
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\419.html
+0.006265
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\420.html
+0.000218
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\421.html
+0.000242
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\422.html
+0.000209
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\423.html
+0.000378
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\424.html
+0.000407
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\425.html
+0.000827
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\426.html
+0.000183
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\427.html
+0.000172
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\428.html
+0.000152
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\429.html
+0.000366
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\430.html
+0.000133
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\431.html
+0.000124
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\432.html
+0.000237
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\433.html
+0.000532
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\434.html
+0.000173
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\435.html
+0.00033
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\436.html
+0.000159
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\437.html
+0.000351
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\438.html
+0.000205
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\439.html
+0.000591
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\440.html
+0.000177
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\441.html
+0.00028
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\442.html
+0.000163
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\443.html
+0.000308
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\444.html
+0.000139
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\445.html
+0.000171
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\446.html
+0.000194
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\447.html
+0.000215
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\448.html
+0.000372
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\449.html
+0.000276
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\450.html
+0.00044
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\451.html
+0.000164
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\452.html
+0.000133
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\453.html
+0.000147
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\454.html
+0.000141
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\455.html
+0.000173
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\456.html
+0.000197
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\457.html
+0.000226
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\458.html
+0.000278
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\459.html
+0.000232
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\460.html
+0.000176
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\461.html
+0.000172
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\462.html
+0.000166
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\463.html
+0.000201
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\464.html
+0.000407
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\465.html
+0.000209
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\466.html
+0.000153
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\467.html
+0.000135
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\468.html
+0.00015
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\469.html
+0.000223
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\470.html
+0.000241
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\471.html
+0.000175
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\472.html
+0.000116
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\473.html
+0.000129
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\474.html
+0.000149
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\475.html
+0.000279
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\476.html
+0.000145
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\477.html
+0.000137
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\478.html
+0.000168
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\479.html
+0.000223
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\480.html
+0.000163
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\481.html
+0.000255
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\482.html
+0.000205
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\483.html
+0.000281
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\484.html
+0.00024
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\485.html
+0.000499
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\486.html
+0.000175
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\487.html
+0.000164
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\488.html
+0.000326
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\489.html
+0.000119
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\490.html
+0.000199
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\491.html
+0.000239
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\492.html
+0.000182
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\493.html
+0.000213
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\494.html
+0.000342
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\495.html
+0.000183
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\496.html
+0.000157
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\497.html
+0.000141
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\498.html
+0.000228
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\499.html
+0.000223
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\500.html
+0.003339
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\501.html
+0.000282
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\502.html
+0.000113
+C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\503.html
+0.000116
 C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\hard.html
-7.6e-05
+0.000107
 C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\medium.html
-6.7e-05
+0.000111
 C:\Users\Alberto Iwakura\Documents\CS13309_Archivos_HTML\simple.html
-6.6e-05
-tiempo total en abrir los archivos: 0.047005 segundos.
-tiempo total de ejecucion: 0.383201 segundos.
+0.000145
+tiempo total en abrir los archivos: 0.146208 segundos.
+tiempo total de ejecucion: 2.88071 segundos.

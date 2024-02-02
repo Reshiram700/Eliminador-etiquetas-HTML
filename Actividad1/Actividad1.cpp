@@ -4,12 +4,12 @@
 #include <iomanip>
 #include <sstream>
 #include <filesystem>
+#include <regex> // Necesario para usar expresiones regulares
 
-namespace fs = std::filesystem;  // O std::experimental::filesystem en compiladores más antiguos
+namespace fs = std::filesystem;
 using namespace std;
 using namespace chrono;
 
-// Función para abrir un archivo HTML y medir el tiempo
 double openFileAndMeasureTime(const string& filename) {
     auto start = high_resolution_clock::now();
 
@@ -19,14 +19,21 @@ double openFileAndMeasureTime(const string& filename) {
         return -1.0;
     }
 
-    
+    // Leer el contenido del archivo HTML
+    stringstream buffer;
+    buffer << file.rdbuf();
+    string content = buffer.str();
+
+    // Eliminar etiquetas HTML usando una expresión regular
+    regex htmlTagsRegex("<[^>]*>");
+    content = regex_replace(content, htmlTagsRegex, "");
 
     auto stop = high_resolution_clock::now();
     auto duration = duration_cast<microseconds>(stop - start);
 
     file.close();
 
-    return duration.count() / 1000000.0; // Convertir a segundos
+    return duration.count() / 1000000.0;
 }
 
 int main() {
@@ -34,37 +41,51 @@ int main() {
 
     cout << "Carpeta de trabajo actual: " << fs::current_path() << endl;
 
-    //Aqui va el nombre que tendra el .txt generado.
-    ofstream outputFile("a1_02967752.txt");
+    string outputFileName;
+    cout << "Ingrese el nombre del archivo de salida: ";
+    cin >> outputFileName;
 
-    //Esta es la ruta donde estan los HTML para poder tomarlos.
+    outputFileName += ".txt"; //Extension de salida del archivo generado.
+
+    ofstream outputFile(outputFileName);
+
     const string folderPath = "C:\\Users\\Alberto Iwakura\\Documents\\CS13309_Archivos_HTML";
 
-    double totalExecutionTime = 0.0;
+    double totalOpenTime = 0.0;
+    double totalRemoveTagsTime = 0.0;
 
     for (const auto& entry : fs::directory_iterator(folderPath)) {
         if (entry.is_regular_file()) {
             string fileName = entry.path().string();
-            double fileOpenTime = openFileAndMeasureTime(fileName);
 
+            // Medir el tiempo de apertura
+            double fileOpenTime = openFileAndMeasureTime(fileName);
             if (fileOpenTime >= 0.0) {
                 cout << "Tiempo para abrir " << fileName << ": " << fileOpenTime << " segundos." << endl;
-                totalExecutionTime += fileOpenTime;
+                totalOpenTime += fileOpenTime;
 
-                outputFile << fileName << "\n" << fileOpenTime << "\n";
+                // Medir el tiempo para eliminar las etiquetas
+                double removeTagsTime = openFileAndMeasureTime(fileName);
+                cout << "Tiempo para eliminar las etiquetas en " << fileName << ": " << removeTagsTime << " segundos." << endl;
+                totalRemoveTagsTime += removeTagsTime;
+
+                outputFile << "Archivo: " << fileName << "\nTiempo de apertura: " << fileOpenTime << " segundos."
+                    << "\nTiempo de eliminación de etiquetas: " << removeTagsTime << " segundos.\n\n";
             }
             else {
                 cerr << "Error al abrir el archivo: " << fileName << endl;
+                outputFile << "Error al abrir el archivo: " << fileName << "\n\n";
             }
         }
     }
 
-    outputFile << "tiempo total en abrir los archivos: " << totalExecutionTime << " segundos." << endl;
+    outputFile << "Tiempo total en abrir los archivos: " << totalOpenTime << " segundos." << endl;
+    outputFile << "Tiempo total en eliminar etiquetas: " << totalRemoveTagsTime << " segundos." << endl;
 
     auto programStop = high_resolution_clock::now();
     auto programDuration = duration_cast<microseconds>(programStop - programStart);
 
-    outputFile << "tiempo total de ejecucion: " << programDuration.count() / 1000000.0 << " segundos." << endl;
+    outputFile << "Tiempo total de ejecucion: " << programDuration.count() / 1000000.0 << " segundos." << endl;
 
     outputFile.close();
 
